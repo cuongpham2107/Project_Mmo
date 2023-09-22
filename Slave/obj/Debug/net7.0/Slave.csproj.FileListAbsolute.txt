@@ -1,0 +1,58 @@
+D:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Slave\bin\Debug\net7.0\Slave.exe
+D:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Slave\bin\Debug\net7.0\Slave.deps.json
+D:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Slave\bin\Debug\net7.0\Slave.runtimeconfig.json
+D:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Slave\bin\Debug\net7.0\Slave.dll
+D:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Slave\bin\Debug\net7.0\Slave.pdb
+D:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Slave\bin\Debug\net7.0\MQTTnet.dll
+D:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Slave\bin\Debug\net7.0\MQTTnet.Extensions.ManagedClient.dll
+D:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Slave\bin\Debug\net7.0\MQTTnet.Extensions.Rpc.dll
+D:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Slave\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Slave\obj\Debug\net7.0\Slave.csproj.AssemblyReference.cache
+D:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Slave\obj\Debug\net7.0\Slave.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Slave\obj\Debug\net7.0\Slave.AssemblyInfoInputs.cache
+D:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Slave\obj\Debug\net7.0\Slave.AssemblyInfo.cs
+D:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Slave\obj\Debug\net7.0\Slave.csproj.CoreCompileInputs.cache
+D:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Slave\obj\Debug\net7.0\Slave.csproj.CopyComplete
+D:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Slave\obj\Debug\net7.0\Slave.dll
+D:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Slave\obj\Debug\net7.0\refint\Slave.dll
+D:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Slave\obj\Debug\net7.0\Slave.pdb
+D:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Slave\obj\Debug\net7.0\Slave.genruntimeconfig.cache
+D:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Slave\obj\Debug\net7.0\ref\Slave.dll
+D:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Slave\bin\Debug\net7.0\selenium-manager\linux\selenium-manager
+D:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Slave\bin\Debug\net7.0\selenium-manager\macos\selenium-manager
+D:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Slave\bin\Debug\net7.0\selenium-manager\windows\selenium-manager.exe
+D:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Slave\bin\Debug\net7.0\WebDriver.dll
+D:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Slave\bin\Debug\net7.0\Mype.Common.dll
+D:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Slave\bin\Debug\net7.0\Mype.ConsoleMvc.dll
+D:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Slave\bin\Debug\net7.0\Mype.Mqtt.dll
+D:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Slave\bin\Debug\net7.0\Shared.dll
+D:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Slave\bin\Debug\net7.0\Shared.pdb
+C:\Mmo\Slave\bin\Debug\net7.0\selenium-manager\linux\selenium-manager
+C:\Mmo\Slave\bin\Debug\net7.0\selenium-manager\macos\selenium-manager
+C:\Mmo\Slave\bin\Debug\net7.0\selenium-manager\windows\selenium-manager.exe
+C:\Mmo\Slave\bin\Debug\net7.0\Slave.exe
+C:\Mmo\Slave\bin\Debug\net7.0\Slave.deps.json
+C:\Mmo\Slave\bin\Debug\net7.0\Slave.runtimeconfig.json
+C:\Mmo\Slave\bin\Debug\net7.0\Slave.dll
+C:\Mmo\Slave\bin\Debug\net7.0\Slave.pdb
+C:\Mmo\Slave\bin\Debug\net7.0\MQTTnet.dll
+C:\Mmo\Slave\bin\Debug\net7.0\MQTTnet.Extensions.ManagedClient.dll
+C:\Mmo\Slave\bin\Debug\net7.0\MQTTnet.Extensions.Rpc.dll
+C:\Mmo\Slave\bin\Debug\net7.0\Mype.Common.dll
+C:\Mmo\Slave\bin\Debug\net7.0\Mype.ConsoleMvc.dll
+C:\Mmo\Slave\bin\Debug\net7.0\Mype.Mqtt.dll
+C:\Mmo\Slave\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Mmo\Slave\bin\Debug\net7.0\WebDriver.dll
+C:\Mmo\Slave\bin\Debug\net7.0\Shared.dll
+C:\Mmo\Slave\bin\Debug\net7.0\Shared.pdb
+C:\Mmo\Slave\obj\Debug\net7.0\Slave.csproj.AssemblyReference.cache
+C:\Mmo\Slave\obj\Debug\net7.0\Slave.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mmo\Slave\obj\Debug\net7.0\Slave.AssemblyInfoInputs.cache
+C:\Mmo\Slave\obj\Debug\net7.0\Slave.AssemblyInfo.cs
+C:\Mmo\Slave\obj\Debug\net7.0\Slave.csproj.CoreCompileInputs.cache
+C:\Mmo\Slave\obj\Debug\net7.0\Slave.csproj.CopyComplete
+C:\Mmo\Slave\obj\Debug\net7.0\Slave.dll
+C:\Mmo\Slave\obj\Debug\net7.0\refint\Slave.dll
+C:\Mmo\Slave\obj\Debug\net7.0\Slave.pdb
+C:\Mmo\Slave\obj\Debug\net7.0\Slave.genruntimeconfig.cache
+C:\Mmo\Slave\obj\Debug\net7.0\ref\Slave.dll

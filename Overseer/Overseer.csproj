@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Mype.Common" Version="1.0.4" />
+    <PackageReference Include="Mype.ConsoleMvc" Version="1.0.2" />
+    <PackageReference Include="Mype.Mqtt" Version="1.0.11" />
+  </ItemGroup>
+
+</Project>

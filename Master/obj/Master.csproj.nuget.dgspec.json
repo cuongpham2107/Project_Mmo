@@ -1,0 +1,93 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\OneDrive - ictu.edu.vn\\KENNA\\PROJECTS\\Mmo\\Master\\Master.csproj": {}
+  },
+  "projects": {
+    "E:\\OneDrive - ictu.edu.vn\\KENNA\\PROJECTS\\Mmo\\Master\\Master.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\OneDrive - ictu.edu.vn\\KENNA\\PROJECTS\\Mmo\\Master\\Master.csproj",
+        "projectName": "Master",
+        "projectPath": "E:\\OneDrive - ictu.edu.vn\\KENNA\\PROJECTS\\Mmo\\Master\\Master.csproj",
+        "packagesPath": "C:\\Users\\TuHocICT\\.nuget\\packages\\",
+        "outputPath": "E:\\OneDrive - ictu.edu.vn\\KENNA\\PROJECTS\\Mmo\\Master\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 23.1\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\TuHocICT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 23.1\\Components\\System\\Components\\Packages": {},
+          "E:\\OneDrive - ictu.edu.vn\\KENNA\\PROJECTS\\Framework\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Mype.Common": {
+              "target": "Package",
+              "version": "[1.0.4, )"
+            },
+            "Mype.ConsoleMvc": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            },
+            "Mype.Mqtt": {
+              "target": "Package",
+              "version": "[1.0.11, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[4.10.0, )"
+            },
+            "Selenium.WebDriver.ChromeDriver": {
+              "target": "Package",
+              "version": "[113.0.5672.6300, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

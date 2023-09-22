@@ -1,0 +1,35 @@
+{
+  "name": "{name}",
+  "browserType": "chrome",
+  "os": "win",
+  "navigator": {
+    "userAgent": "string",
+    "resolution": "string",
+    "language": "string",
+    "platform": "string",
+    "doNotTrack": false,
+    "hardwareConcurrency": 0,
+    "deviceMemory": 1,
+    "maxTouchPoints": 0
+  },
+  "proxyEnabled": true,
+  "autoProxyServer": "",
+  "autoProxyUsername": "",
+  "autoProxyPassword": "",
+  "proxy": {
+    "id": null,
+    "mode": "http",
+    "host": "{host}",
+    "port": {port},
+    "username": "{username}",
+    "password": "{password}",
+    "changeIpUrl": null,
+    "autoProxyRegion": "us",
+    "torProxyRegion": "us"
+  },
+  "fonts": {
+    "enableMasking": true,
+    "enableDomRect": true,
+    "families": [ {fonts} ]
+  }
+}

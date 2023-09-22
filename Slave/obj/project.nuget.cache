@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "BcIK/dBoXeZu7zVSBJ1wxd1xBG2vnr2MdA42t4YsalYdREqLve6vxle9nln3UYo5xMsvXxDT81HjBKQZ/UhJTw==",
+  "success": true,
+  "projectFilePath": "C:\\Mmo\\Slave\\Slave.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\trick\\.nuget\\packages\\mqttnet\\4.1.4.563\\mqttnet.4.1.4.563.nupkg.sha512",
+    "C:\\Users\\trick\\.nuget\\packages\\mqttnet.extensions.managedclient\\4.1.4.563\\mqttnet.extensions.managedclient.4.1.4.563.nupkg.sha512",
+    "C:\\Users\\trick\\.nuget\\packages\\mqttnet.extensions.rpc\\4.1.4.563\\mqttnet.extensions.rpc.4.1.4.563.nupkg.sha512",
+    "C:\\Users\\trick\\.nuget\\packages\\mype.common\\1.0.6\\mype.common.1.0.6.nupkg.sha512",
+    "C:\\Users\\trick\\.nuget\\packages\\mype.consolemvc\\1.0.5\\mype.consolemvc.1.0.5.nupkg.sha512",
+    "C:\\Users\\trick\\.nuget\\packages\\mype.mqtt\\1.0.12\\mype.mqtt.1.0.12.nupkg.sha512",
+    "C:\\Users\\trick\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\trick\\.nuget\\packages\\selenium.webdriver\\4.10.0\\selenium.webdriver.4.10.0.nupkg.sha512",
+    "C:\\Users\\trick\\.nuget\\packages\\selenium.webdriver.chromedriver\\115.0.5790.17000\\selenium.webdriver.chromedriver.115.0.5790.17000.nupkg.sha512"
+  ],
+  "logs": []
+}

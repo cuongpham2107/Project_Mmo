@@ -1,0 +1,63 @@
+D:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Overseer\bin\Debug\net7.0\Overseer.exe
+D:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Overseer\bin\Debug\net7.0\Overseer.deps.json
+D:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Overseer\bin\Debug\net7.0\Overseer.runtimeconfig.json
+D:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Overseer\bin\Debug\net7.0\Overseer.dll
+D:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Overseer\bin\Debug\net7.0\Overseer.pdb
+D:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Overseer\obj\Debug\net7.0\Overseer.csproj.AssemblyReference.cache
+D:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Overseer\obj\Debug\net7.0\Overseer.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Overseer\obj\Debug\net7.0\Overseer.AssemblyInfoInputs.cache
+D:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Overseer\obj\Debug\net7.0\Overseer.AssemblyInfo.cs
+D:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Overseer\obj\Debug\net7.0\Overseer.csproj.CoreCompileInputs.cache
+D:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Overseer\obj\Debug\net7.0\Overseer.dll
+D:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Overseer\obj\Debug\net7.0\refint\Overseer.dll
+D:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Overseer\obj\Debug\net7.0\Overseer.pdb
+D:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Overseer\obj\Debug\net7.0\Overseer.genruntimeconfig.cache
+D:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Overseer\obj\Debug\net7.0\ref\Overseer.dll
+D:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Overseer\bin\Debug\net7.0\Common.dll
+D:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Overseer\obj\Debug\net7.0\Overseer.csproj.CopyComplete
+E:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Overseer\bin\Debug\net7.0\Overseer.exe
+E:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Overseer\bin\Debug\net7.0\Overseer.deps.json
+E:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Overseer\bin\Debug\net7.0\Overseer.runtimeconfig.json
+E:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Overseer\bin\Debug\net7.0\Overseer.dll
+E:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Overseer\bin\Debug\net7.0\Overseer.pdb
+E:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Overseer\bin\Debug\net7.0\MQTTnet.dll
+E:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Overseer\bin\Debug\net7.0\MQTTnet.Extensions.ManagedClient.dll
+E:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Overseer\bin\Debug\net7.0\MQTTnet.Extensions.Rpc.dll
+E:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Overseer\bin\Debug\net7.0\Mype.Common.dll
+E:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Overseer\bin\Debug\net7.0\Mype.ConsoleMvc.dll
+E:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Overseer\bin\Debug\net7.0\Mype.Mqtt.dll
+E:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Overseer\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Overseer\obj\Debug\net7.0\Overseer.csproj.AssemblyReference.cache
+E:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Overseer\obj\Debug\net7.0\Overseer.GeneratedMSBuildEditorConfig.editorconfig
+E:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Overseer\obj\Debug\net7.0\Overseer.AssemblyInfoInputs.cache
+E:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Overseer\obj\Debug\net7.0\Overseer.AssemblyInfo.cs
+E:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Overseer\obj\Debug\net7.0\Overseer.csproj.CoreCompileInputs.cache
+E:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Overseer\obj\Debug\net7.0\Overseer.csproj.CopyComplete
+E:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Overseer\obj\Debug\net7.0\Overseer.dll
+E:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Overseer\obj\Debug\net7.0\refint\Overseer.dll
+E:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Overseer\obj\Debug\net7.0\Overseer.pdb
+E:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Overseer\obj\Debug\net7.0\Overseer.genruntimeconfig.cache
+E:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Overseer\obj\Debug\net7.0\ref\Overseer.dll
+C:\Mmo\Overseer\bin\Debug\net7.0\Overseer.exe
+C:\Mmo\Overseer\bin\Debug\net7.0\Overseer.deps.json
+C:\Mmo\Overseer\bin\Debug\net7.0\Overseer.runtimeconfig.json
+C:\Mmo\Overseer\bin\Debug\net7.0\Overseer.dll
+C:\Mmo\Overseer\bin\Debug\net7.0\Overseer.pdb
+C:\Mmo\Overseer\bin\Debug\net7.0\MQTTnet.dll
+C:\Mmo\Overseer\bin\Debug\net7.0\MQTTnet.Extensions.ManagedClient.dll
+C:\Mmo\Overseer\bin\Debug\net7.0\MQTTnet.Extensions.Rpc.dll
+C:\Mmo\Overseer\bin\Debug\net7.0\Mype.Common.dll
+C:\Mmo\Overseer\bin\Debug\net7.0\Mype.ConsoleMvc.dll
+C:\Mmo\Overseer\bin\Debug\net7.0\Mype.Mqtt.dll
+C:\Mmo\Overseer\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Mmo\Overseer\obj\Debug\net7.0\Overseer.csproj.AssemblyReference.cache
+C:\Mmo\Overseer\obj\Debug\net7.0\Overseer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mmo\Overseer\obj\Debug\net7.0\Overseer.AssemblyInfoInputs.cache
+C:\Mmo\Overseer\obj\Debug\net7.0\Overseer.AssemblyInfo.cs
+C:\Mmo\Overseer\obj\Debug\net7.0\Overseer.csproj.CoreCompileInputs.cache
+C:\Mmo\Overseer\obj\Debug\net7.0\Overseer.csproj.CopyComplete
+C:\Mmo\Overseer\obj\Debug\net7.0\Overseer.dll
+C:\Mmo\Overseer\obj\Debug\net7.0\refint\Overseer.dll
+C:\Mmo\Overseer\obj\Debug\net7.0\Overseer.pdb
+C:\Mmo\Overseer\obj\Debug\net7.0\Overseer.genruntimeconfig.cache
+C:\Mmo\Overseer\obj\Debug\net7.0\ref\Overseer.dll

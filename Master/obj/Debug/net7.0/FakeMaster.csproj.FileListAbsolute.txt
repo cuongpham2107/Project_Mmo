@@ -1,0 +1,58 @@
+D:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Master\bin\Debug\net7.0\selenium-manager\linux\selenium-manager
+D:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Master\bin\Debug\net7.0\selenium-manager\macos\selenium-manager
+D:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Master\bin\Debug\net7.0\selenium-manager\windows\selenium-manager.exe
+D:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Master\bin\Debug\net7.0\FakeMaster.exe
+D:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Master\bin\Debug\net7.0\FakeMaster.deps.json
+D:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Master\bin\Debug\net7.0\FakeMaster.runtimeconfig.json
+D:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Master\bin\Debug\net7.0\FakeMaster.dll
+D:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Master\bin\Debug\net7.0\FakeMaster.pdb
+D:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Master\bin\Debug\net7.0\MQTTnet.dll
+D:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Master\bin\Debug\net7.0\MQTTnet.Extensions.ManagedClient.dll
+D:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Master\bin\Debug\net7.0\MQTTnet.Extensions.Rpc.dll
+D:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Master\bin\Debug\net7.0\Mype.Common.dll
+D:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Master\bin\Debug\net7.0\Mype.ConsoleMvc.dll
+D:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Master\bin\Debug\net7.0\Mype.Mqtt.dll
+D:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Master\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Master\bin\Debug\net7.0\WebDriver.dll
+D:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Master\bin\Debug\net7.0\Shared.dll
+D:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Master\bin\Debug\net7.0\Shared.pdb
+D:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Master\obj\Debug\net7.0\FakeMaster.csproj.AssemblyReference.cache
+D:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Master\obj\Debug\net7.0\FakeMaster.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Master\obj\Debug\net7.0\FakeMaster.AssemblyInfoInputs.cache
+D:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Master\obj\Debug\net7.0\FakeMaster.AssemblyInfo.cs
+D:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Master\obj\Debug\net7.0\FakeMaster.csproj.CoreCompileInputs.cache
+D:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Master\obj\Debug\net7.0\FakeMaster.csproj.CopyComplete
+D:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Master\obj\Debug\net7.0\FakeMaster.dll
+D:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Master\obj\Debug\net7.0\refint\FakeMaster.dll
+D:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Master\obj\Debug\net7.0\FakeMaster.pdb
+D:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Master\obj\Debug\net7.0\FakeMaster.genruntimeconfig.cache
+D:\OneDrive - ictu.edu.vn\KENNA\PROJECTS\Mmo\Master\obj\Debug\net7.0\ref\FakeMaster.dll
+C:\Mmo\Master\bin\Debug\net7.0\selenium-manager\linux\selenium-manager
+C:\Mmo\Master\bin\Debug\net7.0\selenium-manager\macos\selenium-manager
+C:\Mmo\Master\bin\Debug\net7.0\selenium-manager\windows\selenium-manager.exe
+C:\Mmo\Master\bin\Debug\net7.0\FakeMaster.exe
+C:\Mmo\Master\bin\Debug\net7.0\FakeMaster.deps.json
+C:\Mmo\Master\bin\Debug\net7.0\FakeMaster.runtimeconfig.json
+C:\Mmo\Master\bin\Debug\net7.0\FakeMaster.dll
+C:\Mmo\Master\bin\Debug\net7.0\FakeMaster.pdb
+C:\Mmo\Master\bin\Debug\net7.0\MQTTnet.dll
+C:\Mmo\Master\bin\Debug\net7.0\MQTTnet.Extensions.ManagedClient.dll
+C:\Mmo\Master\bin\Debug\net7.0\MQTTnet.Extensions.Rpc.dll
+C:\Mmo\Master\bin\Debug\net7.0\Mype.Common.dll
+C:\Mmo\Master\bin\Debug\net7.0\Mype.ConsoleMvc.dll
+C:\Mmo\Master\bin\Debug\net7.0\Mype.Mqtt.dll
+C:\Mmo\Master\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Mmo\Master\bin\Debug\net7.0\WebDriver.dll
+C:\Mmo\Master\bin\Debug\net7.0\Shared.dll
+C:\Mmo\Master\bin\Debug\net7.0\Shared.pdb
+C:\Mmo\Master\obj\Debug\net7.0\FakeMaster.csproj.AssemblyReference.cache
+C:\Mmo\Master\obj\Debug\net7.0\FakeMaster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mmo\Master\obj\Debug\net7.0\FakeMaster.AssemblyInfoInputs.cache
+C:\Mmo\Master\obj\Debug\net7.0\FakeMaster.AssemblyInfo.cs
+C:\Mmo\Master\obj\Debug\net7.0\FakeMaster.csproj.CoreCompileInputs.cache
+C:\Mmo\Master\obj\Debug\net7.0\FakeMaster.csproj.CopyComplete
+C:\Mmo\Master\obj\Debug\net7.0\FakeMaster.dll
+C:\Mmo\Master\obj\Debug\net7.0\refint\FakeMaster.dll
+C:\Mmo\Master\obj\Debug\net7.0\FakeMaster.pdb
+C:\Mmo\Master\obj\Debug\net7.0\FakeMaster.genruntimeconfig.cache
+C:\Mmo\Master\obj\Debug\net7.0\ref\FakeMaster.dll
